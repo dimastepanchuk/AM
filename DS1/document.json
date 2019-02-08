@@ -26,8 +26,8 @@
       "libraryID": "E8F11FE0-D94D-4201-99F4-36B13ED661C0",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "1249AD59-76C4-406D-A2B5-5B2B21FE4178",
-        "name": "color/1_brand-orange",
+        "do_objectID": "32CD4BBA-5C99-4E71-B30F-83D7578F58D1",
+        "name": "color/2_brand-blue",
         "value": {
           "_class": "style",
           "borders": [
@@ -53,9 +53,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0,
-                "green": 0.5568627450980392,
-                "red": 0.9490196078431372
+                "blue": 0.7058823529411765,
+                "green": 0.5725490196078431,
+                "red": 0.1294117647058824
               },
               "fillType": 0,
               "isEnabled": true,
@@ -70,7 +70,7 @@
           "windingRule": 1
         }
       },
-      "remoteStyleID": "9C7CA6D9-52F1-44AC-9F33-14487C1459A7",
+      "remoteStyleID": "452B6E74-C570-4E89-B6C2-B9AEDF0F9BE0",
       "sourceLibraryName": "AMDS-test",
       "symbolPrivate": false
     }
