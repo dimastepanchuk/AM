@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 26,
   "clippingMaskMode": 0,
   "do_objectID": "92CE04DF-863E-47EE-8CE4-6556A7950417",
   "exportOptions": {
@@ -27,6 +27,9 @@
     "width": 248,
     "x": 908,
     "y": 139
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -55,6 +58,13 @@
   ],
   "name": "Symbol1 Copy 2",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "69C9F5EA-44A7-4430-833F-750FFABBE65F_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

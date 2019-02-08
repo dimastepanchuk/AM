@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -19,11 +23,11 @@
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
-      "libraryID": "5CAA8D72-3CF0-43FD-B8C3-64DC04B29624",
+      "libraryID": "E8F11FE0-D94D-4201-99F4-36B13ED661C0",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "75E9D55F-5990-4340-BD5A-059CF02814C2",
-        "name": "color/5_brand-green",
+        "do_objectID": "1249AD59-76C4-406D-A2B5-5B2B21FE4178",
+        "name": "color/1_brand-orange",
         "value": {
           "_class": "style",
           "borders": [
@@ -49,9 +53,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.1098039215686275,
-                "green": 0.7568627450980392,
-                "red": 0.5803921568627451
+                "blue": 0,
+                "green": 0.5568627450980392,
+                "red": 0.9490196078431372
               },
               "fillType": 0,
               "isEnabled": true,
@@ -66,8 +70,8 @@
           "windingRule": 1
         }
       },
-      "remoteStyleID": "04A75C6C-39DF-426E-B5D9-D4C27F02142E",
-      "sourceLibraryName": "designSystem_Aurinkomatkat",
+      "remoteStyleID": "9C7CA6D9-52F1-44AC-9F33-14487C1459A7",
+      "sourceLibraryName": "AMDS-test",
       "symbolPrivate": false
     }
   ],
@@ -81,9 +85,9 @@
     ]
   },
   "meta": {
-    "appVersion": "52.5",
-    "build": 67469,
-    "version": 112
+    "appVersion": "53",
+    "build": 72520,
+    "version": 116
   },
   "pages": [
     "Page 1"
